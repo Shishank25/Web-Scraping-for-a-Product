@@ -2,10 +2,12 @@ Project Overview
 
 This project involves using Python to scrape data from a single product page on Amazon. The primary goal is to extract specific information, such as the product name and price. This process involves several key steps, including sending HTTP requests, parsing HTML content, and handling potential issues related to web scraping.
 
+
 Tools and Libraries
 
-Requests: To send HTTP requests and retrieve the HTML content of the product page.
-BeautifulSoup: To parse the HTML content and extract the required data.
+1. Requests: To send HTTP requests and retrieve the HTML content of the product page.
+2. BeautifulSoup: To parse the HTML content and extract the required data.
+
 
 Steps involved:
 
